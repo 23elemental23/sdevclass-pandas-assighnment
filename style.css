@@ -1,9 +1,8 @@
 ol{
-    color: #84aaac;
+    color: #85ac84;
 }
-
 p{
-    background-color: #d494b7;
+    background-color: #b8b8b8;
     font-size: 1.5em;
     text-decoration: underline;
     font-style: italic;
@@ -13,4 +12,28 @@ a{
     color: #000000;
     font-family: cursive;
 }
+#spriteJobs{
+    color: #00FF00;
+    background-color: #20381d;
+}
+#danceWhat{
+    font-weight: bolder;
+
+}
+.pow{
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.highlight{
+    background-color: #339966;
+}
 /*i eat the wee is rocks duh of good yum when the is so but other there is why who when I didnt?*/
+h2,li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li ol{
+    color: #39165a;
+}
+body{
+    background-color: #d494b7;
+}
